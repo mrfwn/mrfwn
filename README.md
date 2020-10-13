@@ -30,9 +30,9 @@
 
 ## 😇 My Github Stats:
 
-[![Visits Badge](https://badges.pufler.dev/visits/vduggen/vduggen?style=for-the-badge)](https://github.com/vduggen/vduggen)
-![Repos Badge](https://badges.pufler.dev/repos/vduggen?style=for-the-badge)
+[![Visits Badge](https://badges.pufler.dev/visits/mrfwn/mrfwn?style=for-the-badge)](https://github.com/mrfwn/mrfwn)
+![Repos Badge](https://badges.pufler.dev/repos/mrfwn?style=for-the-badge)
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=vduggen&show_icons=true&theme=algolia&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mrfwn&show_icons=true&theme=algolia&line_height=27">
 </p>
